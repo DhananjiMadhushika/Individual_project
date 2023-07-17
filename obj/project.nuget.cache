@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UIkOarLkxIL/vG8LH7KVVE+Ckocj0iLK2BZk0a1jPWRMotpjzrICAubfUNguuNIkWhDSyS7xNwV6d7w41hqLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dhananji\\Desktop\\My_Project\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhananji\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512",
+    "C:\\Users\\Dhananji\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\Dhananji\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
